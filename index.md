@@ -49,7 +49,7 @@ function AdjustIframeHeight(i) { document.getElementById("form-iframe").style.he
 
 </div>
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTJar69jP8wZutbZfNQDADHKzcNvaL3X-m3k8Q8l4QiDlx-shkRMAao35zD_-roTRwETO2--YhW2NRn/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=true" width="100%" class="myIframe">
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTJar69jP8wZutbZfNQDADHKzcNvaL3X-m3k8Q8l4QiDlx-shkRMAao35zD_-roTRwETO2--YhW2NRn/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=true" width="100%" class="myIframe" style="-webkit-transform:scale(0.5);-moz-transform-scale(0.5);">
 <p>Hi SOF</p>
 </iframe>
 
