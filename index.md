@@ -60,3 +60,7 @@ style="-webkit-transform:scale(0.5);-moz-transform-scale(0.5);"
 <script type="text/javascript" language="javascript"> 
 $('.myIframe').css('height', $(window).height()+'px');
 </script>
+
+<script type="text/javascript" language="javascript"> 
+$('.myIframe').css('scale', 0.5);
+</script>
