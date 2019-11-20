@@ -53,7 +53,7 @@ function AdjustIframeHeight(i) { document.getElementById("form-iframe").style.he
 style="-webkit-transform:scale(0.5);-moz-transform-scale(0.5);"
 
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTJar69jP8wZutbZfNQDADHKzcNvaL3X-m3k8Q8l4QiDlx-shkRMAao35zD_-roTRwETO2--YhW2NRn/pubhtml?gid=0&amp;single=true&amp;widget=false&amp;headers=false" width="100%" class="myIframe" >
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTJar69jP8wZutbZfNQDADHKzcNvaL3X-m3k8Q8l4QiDlx-shkRMAao35zD_-roTRwETO2--YhW2NRn/pubhtml?gid=0&amp;single=true&amp;widget=false&amp;headers=false;chrome=false" width="100%" class="myIframe" >
 <p>Hi SOF</p>
 </iframe>
 
