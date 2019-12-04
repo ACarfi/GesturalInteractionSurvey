@@ -1,3 +1,18 @@
+<table style="width:100%">
+  <tr>
+    <th>Name:</th>
+    <td>Bill Gates</td>
+  </tr>
+  <tr>
+    <th rowspan="2">Telephone:</th>
+    <td>55577854</td>
+  </tr>
+  <tr>
+    <td>55577855</td>
+  </tr>
+</table>
+
+
 ## Welcome to GitHub Page
 
 You can use the [editor on GitHub](https://github.com/ACarfi/GesturalInteractionSurvey/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
