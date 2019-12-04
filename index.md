@@ -1,5 +1,26 @@
 <table style="width:100%">
   <tr>
+    <th columnspan="2">Article</th>
+    <th columnspan="3">Sensing</th>
+    <th columnspan="1">Reaction</th>
+    <th columnspan="2">Processing</th>
+    <th columnspan="5">Gestures</th>
+
+
+
+  </tr>
+  <tr>
+    <th rowspan="2">Telephone:</th>
+    <td>55577854</td>
+  </tr>
+  <tr>
+    <td>55577855</td>
+  </tr>
+</table>
+
+
+<table style="width:100%">
+  <tr>
     <th>Name:</th>
     <td>Bill Gates</td>
   </tr>
