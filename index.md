@@ -1,4 +1,4 @@
-<table style="width:70%">
+<table style="width:100%">
   <tr>
     <th colspan="2">Article</th>
     <th colspan="3">Sensing</th>
