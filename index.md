@@ -1,4 +1,9 @@
-<table>
+table#t01 {
+  width: 100%;
+  background-color: #f1f1c1;
+}
+
+<table id="t01">
   <caption>Most Popular Content Management Systems</caption>
   <tr>
     <th colspan="2">Article</th>
