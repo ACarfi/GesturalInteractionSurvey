@@ -1,5 +1,5 @@
-
-<table style="width:100%;font-size:5px">
+font-size:5px
+<table style="width:100%;display:inline">
   <caption>Most Popular Content Management Systems</caption>
   <tr>
     <th colspan="2">Article</th>
