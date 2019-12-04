@@ -1,7 +1,6 @@
 prova
 <div  style="width:100%">
 <table style="font-size:1rem;overflow:visible;display:flex!important;justify-content:center!important">
-  <caption>Most Popular Content Management Systems</caption>
   <tr>
     <th colspan="2">Article</th>
     <th colspan="3">Sensing</th>
