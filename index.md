@@ -1,5 +1,6 @@
 font-size:5px
-<table style="width:100%;display:inline">
+<div  style="width:100%">
+<table style="display:inline">
   <caption>Most Popular Content Management Systems</caption>
   <tr>
     <th colspan="2">Article</th>
@@ -29,6 +30,7 @@ font-size:5px
     <td> Stereo Monochrome Camera</td>
   </tr>
 </table>
+</div>
 
 
 
