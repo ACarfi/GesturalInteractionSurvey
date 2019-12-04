@@ -1,5 +1,5 @@
 <div  style="width:100%">
-<table style="display:inline-table">
+<table style="font-size:0.8rem">
   <caption>Most Popular Content Management Systems</caption>
   <tr>
     <th colspan="2">Article</th>
