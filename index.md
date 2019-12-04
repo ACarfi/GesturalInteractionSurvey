@@ -5,9 +5,21 @@
     <th columnspan="1">Reaction</th>
     <th columnspan="2">Processing</th>
     <th columnspan="5">Gestures</th>
-
-
-
+  </tr>
+    
+  <tr>
+    <th>Ref</th>
+    <th>Year</th>
+    <th>Sensor(1)</th>
+    <th>Sensor(2)</th>
+    <th>Sensor(3)</th>
+    <th></th>
+    <th>Problem</th>
+    <th>User Defined</th>
+    <th>Size</th>
+    <th>Effect</th>
+    <th>Focus</th>
+    <th>Spatial</th>
   </tr>
   <tr>
     <th rowspan="2">Telephone:</th>
