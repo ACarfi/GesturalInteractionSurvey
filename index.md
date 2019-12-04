@@ -1,5 +1,5 @@
 table#t01 {
-  width: 100%;
+  width: 20%;
   background-color: #f1f1c1;
 }
 
