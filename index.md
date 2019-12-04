@@ -1,5 +1,3 @@
-font-size:5px
-dadaca
 <div  style="width:100%">
 <table style="display:inline-table">
   <caption>Most Popular Content Management Systems</caption>
