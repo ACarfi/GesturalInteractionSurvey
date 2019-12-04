@@ -1,6 +1,6 @@
-prova
+prova2
 <div  style="width:100%">
-<table style="font-size:1rem;overflow:visible;display:flex!important;justify-content:center!important">
+<table style="font-size:1rem;overflow:visible;display:flex!important;justify-content:center!important;.td{padding:4px!important;}">
   <tr>
     <th colspan="2">Article</th>
     <th colspan="3">Sensing</th>
