@@ -1,7 +1,7 @@
 font-size:5px
-da
+dada
 <div  style="width:100%">
-<table style="display:inline">
+<table style="display:inline-flex">
   <caption>Most Popular Content Management Systems</caption>
   <tr>
     <th colspan="2">Article</th>
