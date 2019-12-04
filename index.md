@@ -1,9 +1,5 @@
-table#t01 {
-  width: 20%;
-  background-color: #f1f1c1;
-}
 
-<table id="t01">
+<table style="width:100%;font-size:5px">
   <caption>Most Popular Content Management Systems</caption>
   <tr>
     <th colspan="2">Article</th>
