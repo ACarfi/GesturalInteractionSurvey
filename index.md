@@ -22,11 +22,9 @@
     <th>Spatial</th>
   </tr>
   <tr>
-    <th rowspan="2">Telephone:</th>
-    <td>55577854</td>
-  </tr>
-  <tr>
-    <td>55577855</td>
+    <td> Kortenkamp1996 </td>
+    <td> 1996 </td>
+    <td> Stereo Monochrome Camera</td>
   </tr>
 </table>
 
