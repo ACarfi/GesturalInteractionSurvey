@@ -1,10 +1,10 @@
 <table style="width:100%">
   <tr>
-    <th columnspan="2">Article</th>
-    <th columnspan="3">Sensing</th>
-    <th columnspan="1">Reaction</th>
-    <th columnspan="2">Processing</th>
-    <th columnspan="5">Gestures</th>
+    <th colspan="2">Article</th>
+    <th colspan="3">Sensing</th>
+    <th colspan="1">Reaction</th>
+    <th colspan="2">Processing</th>
+    <th colspan="5">Gestures</th>
   </tr>
     
   <tr>
