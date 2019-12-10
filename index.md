@@ -1,4 +1,3 @@
-prova2
 <div  style="width:100%">
 <table style="font-size:1rem;overflow:visible;display:flex!important;justify-content:center!important;.td{padding:4px!important;}">
   <tr>
@@ -27,6 +26,16 @@ prova2
     <td> Kortenkamp1996 </td>
     <td> 1996 </td>
     <td> Stereo Monochrome Camera</td>
+    <td> - </td>
+    <td> - </td>
+    <td> HRI </td>
+    <td> Gesture Recognition </td>
+    <td> No </td>
+    <td> 6 </td>
+    <td> Discrete </td>
+    <td> Static </td>
+    <td> Arm </td>
+    <td> Yes </td>  
   </tr>
 </table>
 </div>
