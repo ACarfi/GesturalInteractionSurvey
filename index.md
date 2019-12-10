@@ -1,5 +1,5 @@
 <div  style="width:100%">
-<table style="font-size:1rem;overflow:visible;display:flex!important;justify-content:center!important;.td{padding:4px!important;}">
+<table style="font-size:0.85rem;overflow:visible;display:flex!important;justify-content:center!important;.td{padding:4px!important;}">
   <tr>
     <th colspan="2">Article</th>
     <th colspan="3">Sensing</th>
@@ -20,7 +20,7 @@
     <th>Size</th>
     <th>Effect</th>
     <td>Temporal</td>
-    <th>Focus</th>
+    <td>Focus</td>
     <th>Spatial</th>
   </tr>
   <tr>
