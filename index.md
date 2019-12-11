@@ -40,7 +40,7 @@
   </tr>
 
   <tr>
-    <td>  </td>
+    <td>  29 </td>
     <td> 1996 </td>
     <td> Stereo Monochrome Camera</td>
     <td> - </td>
@@ -56,7 +56,7 @@
   </tr>
 
   <tr>
-    <td rowspan="2">  </td>
+    <td rowspan="2"> 119 </td>
     <td rowspan="2"> 2000 </td>
     <td rowspan="2"> Monochrome Camera</td>
     <td rowspan="2"> Infrared Illumination</td>
@@ -82,7 +82,7 @@
   </tr>
 
   <tr>
-    <td>  </td>
+    <td> 134 </td>
     <td> 2000 </td>
     <td> Camera</td>
     <td> - </td>
@@ -98,7 +98,7 @@
   </tr>
 
   <tr>
-    <td>  </td>
+    <td> 73 </td>
     <td> 2000 </td>
     <td> Camera</td>
     <td> - </td>
@@ -114,7 +114,7 @@
   </tr>
 
   <tr>
-    <td>  </td>
+    <td> 110 </td>
     <td> 2002 </td>
     <td> Camera</td>
     <td> - </td>
@@ -130,7 +130,7 @@
   </tr>
 
   <tr>
-    <td>  </td>
+    <td> 109 </td>
     <td> 2003 </td>
     <td> Camera</td>
     <td> - </td>
@@ -146,7 +146,7 @@
   </tr>
 
   <tr>
-    <td rowspan="2">  </td>
+    <td rowspan="2"> <a href="https://ieeexplore.ieee.org/document/1521814"> Hasanuzzaman et al. 2004 </a> </td>
     <td rowspan="2"> 2004 </td>
     <td rowspan="2"> RGB Camera</td>
     <td rowspan="2"> - </td>
