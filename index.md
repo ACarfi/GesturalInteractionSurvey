@@ -38,6 +38,48 @@
     <td> Arm </td>
     <td> Yes </td>  
   </tr>
+
+  <tr>
+    <td>  </td>
+    <td> 1996 </td>
+    <td> Stereo Monochrome Camera</td>
+    <td> - </td>
+    <td> - </td>
+    <td> HRI </td>
+    <td> Feature Extraction </td>
+    <td> No </td>
+    <td> - </td>
+    <td> Continuous </td>
+    <td> Dynamic </td>
+    <td> Fingers </td>
+    <td> Yes </td>  
+  </tr>
+
+  <tr>
+    <td rowspan="2"> Kortenkamp1996 </td>
+    <td rowspan="2"> 1996 </td>
+    <td rowspan="2"> Monochrome Camera</td>
+    <td rowspan="2"> Infrared Illumination</td>
+    <td rowspan="2"> Button </td>
+    <td> - </td>
+    <td> Gesture Recognition </td>
+    <td> No </td>
+    <td> 8 </td>
+    <td> Discrete Continuous </td>
+    <td> Static Dynamic </td>
+    <td> Fingers Arm </td>
+    <td> No </td>  
+  </tr>
+
+  <tr>
+    <td> Gesture Recognition </td>
+    <td> Yes </td>
+    <td> 6 </td>
+    <td> Discrete </td>
+    <td> Dynamic </td>
+    <td> (Bi) Fingers Hand </td>
+    <td> No </td>  
+  </tr>
 </table>
 </div>
 
