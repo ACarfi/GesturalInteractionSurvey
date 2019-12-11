@@ -57,7 +57,7 @@
 
   <tr>
     <td rowspan="2">  </td>
-    <td rowspan="2"> 1996 </td>
+    <td rowspan="2"> 2000 </td>
     <td rowspan="2"> Monochrome Camera</td>
     <td rowspan="2"> Infrared Illumination</td>
     <td rowspan="2"> Button </td>
@@ -77,7 +77,97 @@
     <td> 6 </td>
     <td> Discrete </td>
     <td> Dynamic </td>
-    <td> (Bi) Fingers Hand </td>
+    <td> (Bi)Fingers Hand </td>
+    <td> No </td>  
+  </tr>
+
+  <tr>
+    <td>  </td>
+    <td> 2000 </td>
+    <td> Camera</td>
+    <td> - </td>
+    <td> - </td>
+    <td> - </td>
+    <td> Gesture Recognition </td>
+    <td> No </td>
+    <td> 5 </td>
+    <td> Discrete </td>
+    <td> Dynamic </td>
+    <td> Fingers Hand </td>
+    <td> No </td>  
+  </tr>
+
+  <tr>
+    <td>  </td>
+    <td> 2000 </td>
+    <td> Camera</td>
+    <td> - </td>
+    <td> - </td>
+    <td> HRI </td>
+    <td> Gesture Recognition </td>
+    <td> Yes </td>
+    <td> - </td>
+    <td> Discrete </td>
+    <td> Dynamic </td>
+    <td> (Bi) Hand </td>
+    <td> No </td>  
+  </tr>
+
+  <tr>
+    <td>  </td>
+    <td> 2002 </td>
+    <td> Camera</td>
+    <td> - </td>
+    <td> - </td>
+    <td> - </td>
+    <td> Gesture Classification </td>
+    <td> No </td>
+    <td> 6 </td>
+    <td> Discrete </td>
+    <td> Static </td>
+    <td> Fingers Hand </td>
+    <td> No </td>  
+  </tr>
+
+  <tr>
+    <td>  </td>
+    <td> 2003 </td>
+    <td> Camera</td>
+    <td> - </td>
+    <td> - </td>
+    <td> - </td>
+    <td> Gesture Recognition </td>
+    <td> No </td>
+    <td> 5 </td>
+    <td> Discrete </td>
+    <td> Dynamic </td>
+    <td> Fingers Hand </td>
+    <td> No </td>  
+  </tr>
+
+  <tr>
+    <td rowspan="2">  </td>
+    <td rowspan="2"> 2004 </td>
+    <td rowspan="2"> RGB Camera</td>
+    <td rowspan="2"> - </td>
+    <td rowspan="2"> - </td>
+    <td rowspan="2"> HRI </td>
+    <td> Gesture Recognition </td>
+    <td> No </td>
+    <td> 8 </td>
+    <td> Discrete </td>
+    <td> Static </td>
+    <td> (Bi) Fingers Arm </td>
+    <td> No </td>  
+  </tr>
+
+  <tr>
+    <td> Gesture Recognition </td>
+    <td> No </td>
+    <td> 2 </td>
+    <td> Discrete </td>
+    <td> Dynamic </td>
+    <td> Head </td>
     <td> No </td>  
   </tr>
 </table>
