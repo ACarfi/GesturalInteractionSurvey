@@ -19,8 +19,8 @@
     <th>User Defined</th>
     <th>Size</th>
     <th>Effect</th>
-    <td>Temporal</td>
-    <td>Focus</td>
+    <th>Temporal</th>
+    <th>Focus</th>
     <th>Spatial</th>
   </tr>
   <tr>
