@@ -56,12 +56,12 @@
   </tr>
 
   <tr>
-    <td rowspan="2"> Kortenkamp1996 </td>
+    <td rowspan="2">  </td>
     <td rowspan="2"> 1996 </td>
     <td rowspan="2"> Monochrome Camera</td>
     <td rowspan="2"> Infrared Illumination</td>
     <td rowspan="2"> Button </td>
-    <td> - </td>
+    <td rowspan="2"> - </td>
     <td> Gesture Recognition </td>
     <td> No </td>
     <td> 8 </td>
