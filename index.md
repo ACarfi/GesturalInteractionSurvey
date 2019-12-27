@@ -194,17 +194,33 @@ The following table represent an extensive literature review where all the analy
 
   <tr>
     <td> <a href="https://dl.acm.org/citation.cfm?doid=1052380.1052385"> M&auml;ntryj&auml;rvi et al. 2004 </a> </td>
-    <td> 2003 </td>
+    <td> 2004 </td>
+    <td> Accelerometer</td>
+    <td> Button </td>
+    <td> - </td>
+    <td> - </td>
+    <td> Gesture Recognition </td>
+    <td> No </td>
+    <td> 8 </td>
+    <td> Discrete </td>
+    <td> Dynamic </td>
+    <td> Hand </td>
+    <td> No </td>  
+  </tr>
+
+  <tr>
+    <td> <a href="https://www.sciencedirect.com/science/article/pii/S0167865504001576?via%3Dihub"> Kang et al. 2004 </a> </td>
+    <td> 2004 </td>
     <td> RGB Camera</td>
     <td> - </td>
     <td> - </td>
-    <td> - </td>
-    <td> Gesture Classification </td>
+    <td> HCI </td>
+    <td> Gesture Recognition </td>
     <td> No </td>
-    <td> 6 </td>
+    <td> 10 </td>
     <td> Discrete </td>
-    <td> Static </td>
-    <td> Fingers Hand </td>
+    <td> Dynamic </td>
+    <td> (Bi) Arm Torso </td>
     <td> No </td>  
   </tr>
 
