@@ -29,7 +29,7 @@ The following table represent an extensive literature review where all the analy
     <th>Spatial</th>
   </tr>
   <tr>
-    <td> Kortenkamp1996 </td>
+    <td> <a href="https://www.aaai.org/Library/AAAI/1996/aaai96-136.php"> Kortenkamp et al. 1996 </a> </td>
     <td> 1996 </td>
     <td> Stereo Monochrome Camera</td>
     <td> - </td>
