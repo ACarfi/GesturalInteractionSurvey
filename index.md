@@ -151,6 +151,22 @@ The following table represent an extensive literature review where all the analy
   </tr>
 
   <tr>
+    <td> <a href="https://ieeexplore.ieee.org/document/1248866"> Chao Hu et al. 2003 </a> </td>
+    <td> 2003 </td>
+    <td> RGB Camera</td>
+    <td> - </td>
+    <td> - </td>
+    <td> - </td>
+    <td> Gesture Classification </td>
+    <td> No </td>
+    <td> 6 </td>
+    <td> Discrete </td>
+    <td> Static </td>
+    <td> Fingers Hand </td>
+    <td> No </td>  
+  </tr>
+
+  <tr>
     <td rowspan="2"> <a href="https://ieeexplore.ieee.org/document/1521814"> Hasanuzzaman et al. 2004 </a> </td>
     <td rowspan="2"> 2004 </td>
     <td rowspan="2"> RGB Camera</td>
@@ -175,5 +191,23 @@ The following table represent an extensive literature review where all the analy
     <td> Head </td>
     <td> No </td>  
   </tr>
+
+  <tr>
+    <td> <a href="https://dl.acm.org/citation.cfm?doid=1052380.1052385"> M\xE4 et al. 2003 </a> </td>
+    <td> 2003 </td>
+    <td> RGB Camera</td>
+    <td> - </td>
+    <td> - </td>
+    <td> - </td>
+    <td> Gesture Classification </td>
+    <td> No </td>
+    <td> 6 </td>
+    <td> Discrete </td>
+    <td> Static </td>
+    <td> Fingers Hand </td>
+    <td> No </td>  
+  </tr>
+
+  
 </table>
 </div>
