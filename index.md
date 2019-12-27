@@ -193,7 +193,7 @@ The following table represent an extensive literature review where all the analy
   </tr>
 
   <tr>
-    <td> <a href="https://dl.acm.org/citation.cfm?doid=1052380.1052385"> M\xE4 et al. 2003 </a> </td>
+    <td> <a href="https://dl.acm.org/citation.cfm?doid=1052380.1052385"> M&auml;ntryj&auml;rvi et al. 2004 </a> </td>
     <td> 2003 </td>
     <td> RGB Camera</td>
     <td> - </td>
