@@ -40,7 +40,7 @@
   </tr>
 
   <tr>
-    <td>  29 </td>
+    <td>  <a href="https://www.sciencedirect.com/science/article/pii/026288569684056X"> Cipolla et al. 1996 </a> </td>
     <td> 1996 </td>
     <td> Stereo Monochrome Camera</td>
     <td> - </td>
@@ -56,7 +56,7 @@
   </tr>
 
   <tr>
-    <td rowspan="2"> 119 </td>
+    <td rowspan="2"> <a href="https://ieeexplore.ieee.org/document/888469"> Starner et al. 2000 </a> </td>
     <td rowspan="2"> 2000 </td>
     <td rowspan="2"> Monochrome Camera</td>
     <td rowspan="2"> Infrared Illumination</td>
@@ -82,7 +82,7 @@
   </tr>
 
   <tr>
-    <td> 134 </td>
+    <td> <a href="https://www.sciencedirect.com/science/article/pii/S0031320399001752"> Yeasin et al. 2000 </a> </td>
     <td> 2000 </td>
     <td> Camera</td>
     <td> - </td>
@@ -98,7 +98,7 @@
   </tr>
 
   <tr>
-    <td> 73 </td>
+    <td> <a href="https://ieeexplore.ieee.org/document/903007"> Kuno et al. 2000 </a> </td>
     <td> 2000 </td>
     <td> Camera</td>
     <td> - </td>
@@ -114,7 +114,7 @@
   </tr>
 
   <tr>
-    <td> 110 </td>
+    <td> <a href="https://ieeexplore.ieee.org/document/1045664"> Rogalla et al. 2002 </a> </td>
     <td> 2002 </td>
     <td> Camera</td>
     <td> - </td>
@@ -130,7 +130,7 @@
   </tr>
 
   <tr>
-    <td> 109 </td>
+    <td> <a href="https://www.sciencedirect.com/science/article/pii/S0031320303000426"> Ramamoorthy et al. 2003 </a> </td>
     <td> 2003 </td>
     <td> Camera</td>
     <td> - </td>
