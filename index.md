@@ -1283,5 +1283,97 @@ The following table represent an extensive literature review where all the analy
     <td> Fingers Arm </td>
     <td> No </td>
   </tr>
+
+  <tr>
+    <td rowspan="2"> <a href="https://link.springer.com/article/10.1007%2Fs11042-018-6403-9"> Park and Lee 2019 </a> </td>
+    <td rowspan="2"> 2019 </td>
+    <td rowspan="2"> Infrared Camera </td>
+    <td rowspan="2"> - </td>
+    <td rowspan="2"> - </td>
+    <td> HRI </td>
+    <td> Feature Extraction </td>
+    <td> No </td>
+    <td> - </td>
+    <td> Continuous </td>
+    <td> Dynamic </td>
+    <td> Hand </td>
+    <td> No </td>  
+  </tr>
+
+  <tr>
+    <td> HCI </td>
+    <td> Gesture Recognition </td>
+    <td> No </td>
+    <td> 1 </td>
+    <td> Discrete Continuous </td>
+    <td> Static Dynamic </td>
+    <td> Finger Hand </td>
+    <td> Yes </td>
+  </tr>
+
+  <tr>
+    <td> <a href="https://link.springer.com/article/10.1007%2Fs10209-017-0580-6"> Pomboza-Junez et al. 2019 </a> </td>
+    <td> 2019 </td>
+    <td> EMG </td>
+    <td> - </td>
+    <td> - </td>
+    <td> HCI </td>
+    <td> Gesture Recognition </td>
+    <td> No </td>
+    <td> 4 </td>
+    <td> Discrete </td>
+    <td> Static </td>
+    <td> Fingers Hand </td>
+    <td> No </td>  
+  </tr>
+
+  <tr>
+    <td> <a href="https://ieeexplore.ieee.org/document/8410764"> Avola et al. 2019 </a> </td>
+    <td> 2019 </td>
+    <td> Stereo Infrared Camera </td>
+    <td> - </td>
+    <td> - </td>
+    <td> - </td>
+    <td> Gesture Classification </td>
+    <td> No </td>
+    <td> 30 </td>
+    <td> Discrete </td>
+    <td> Static Dynamic </td>
+    <td> Fingers Hand </td>
+    <td> No </td>  
+  </tr>
+
+  <tr>
+    <td> <a href="https://link.springer.com/chapter/10.1007%2F978-3-030-02686-8_4"> Feng et al. 2019 </a> </td>
+    <td> 2019 </td>
+    <td> Stereo Infrared Camera </td>
+    <td> - </td>
+    <td> - </td>
+    <td> - </td>
+    <td> Gesture Classification </td>
+    <td> No </td>
+    <td> 10 </td>
+    <td> Discrete </td>
+    <td> Static </td>
+    <td> Fingers </td>
+    <td> No </td>  
+  </tr>
+
+  <tr>
+    <td> <a href="https://www.mdpi.com/1424-8220/19/14/3170"> Zhang et al. 2019 </a> </td>
+    <td> 2019 </td>
+    <td> EMG </td>
+    <td> - </td>
+    <td> - </td>
+    <td> - </td>
+    <td> Gesture Recognition </td>
+    <td> No </td>
+    <td> 5 </td>
+    <td> Discrete </td>
+    <td> Dynamic </td>
+    <td> Fingers Hand </td>
+    <td> No </td>  
+  </tr>
+  
 </table>
 </div>
