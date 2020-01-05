@@ -339,5 +339,197 @@ The following table represent an extensive literature review where all the analy
     <td> Arm </td>
     <td> No </td>  
   </tr>
+
+  <tr>
+    <td rowspan="2"> <a href="https://www.sciencedirect.com/science/article/pii/S1574119209000674?via%3Dihub"> Liu et al. 2009 </a> </td>
+    <td rowspan="2"> 2009 </td>
+    <td rowspan="2"> Accelerometer </td>
+    <td rowspan="2"> Button </td>
+    <td rowspan="2"> - </td>
+    <td rowspan="2"> HCI </td>
+    <td> Gesture Recognition </td>
+    <td> No </td>
+    <td> 8 </td>
+    <td> Discrete </td>
+    <td> Dynamic </td>
+    <td> Hand </td>
+    <td> No </td>  
+  </tr>
+
+  <tr>
+    <td> Gesture Recognition </td>
+    <td> Yes </td>
+    <td> - </td>
+    <td> Discrete </td>
+    <td> Dynamic </td>
+    <td> Hand </td>
+    <td> No </td>  
+  </tr>
+
+  <tr>
+    <td> <a href="https://ieeexplore.ieee.org/document/5650294"> Wu et al. 2010 </a> </td>
+    <td> 2010 </td>
+    <td> Accelerometer </td>
+    <td> - </td>
+    <td> - </td>
+    <td> HRI </td>
+    <td> Gesture Recognition </td>
+    <td> No </td>
+    <td> 6 </td>
+    <td> Discrete </td>
+    <td> Dynamic </td>
+    <td> Arm </td>
+    <td> No </td>  
+  </tr>
+
+  <tr>
+    <td> <a href="https://ieeexplore.ieee.org/document/5495895"> Akl and Valaee 2010 </a> </td>
+    <td> 2010 </td>
+    <td> Accelerometer </td>
+    <td> Button </td>
+    <td> - </td>
+    <td> - </td>
+    <td> Gesture Recognition </td>
+    <td> No </td>
+    <td> 18 </td>
+    <td> Discrete </td>
+    <td> Dynamic </td>
+    <td> Hand </td>
+    <td> No </td>  
+  </tr>
+
+  <tr>
+    <td> <a href="https://ieeexplore.ieee.org/document/6152463"> Chen et al. 2012 </a> </td>
+    <td> 2012 </td>
+    <td> Accelerometer </td>
+    <td> Button </td>
+    <td> Marker Based MoCap </td>
+    <td> - </td>
+    <td> Gesture Recognition </td>
+    <td> No </td>
+    <td> 20 </td>
+    <td> Discrete </td>
+    <td> Dynamic </td>
+    <td> Hand </td>
+    <td> No </td>  
+  </tr>
+
+  <tr>
+    <td> <a href="https://ieeexplore.ieee.org/document/6152471"> Khan et al. 2012 </a> </td>
+    <td> 2012 </td>
+    <td> Accelerometer </td>
+    <td> - </td>
+    <td> - </td>
+    <td> - </td>
+    <td> Gesture Classification </td>
+    <td> No </td>
+    <td> 8 </td>
+    <td> Discrete </td>
+    <td> Dynamic </td>
+    <td> Hand </td>
+    <td> No </td>  
+  </tr>
+
+  <tr>
+    <td> <a href="https://dl.acm.org/doi/10.1145/2207676.2208331"> Gupta et al. 2012 </a> </td>
+    <td> 2012 </td>
+    <td> Microphone </td>
+    <td> Speaker </td>
+    <td> - </td>
+    <td> HCI </td>
+    <td> Gesture Recognition </td>
+    <td> No </td>
+    <td> 5 </td>
+    <td> Discrete </td>
+    <td> Dynamic </td>
+    <td> (Bi) Hand </td>
+    <td> No </td>  
+  </tr>
+
+  <tr>
+    <td> <a href="https://dl.acm.org/doi/10.1145/2505483.2505487"> Porzi et al. 2013 </a> </td>
+    <td> 2013 </td>
+    <td> Accelerometer </td>
+    <td> Touch Screen </td>
+    <td> - </td>
+    <td> HCI </td>
+    <td> Gesture Recognition </td>
+    <td> No </td>
+    <td> 8 </td>
+    <td> Discrete </td>
+    <td> Dynamic </td>
+    <td> Arm </td>
+    <td> No </td>  
+  </tr>
+
+  <tr>
+    <td> <a href="https://link.springer.com/chapter/10.1007%2F978-3-642-45062-4_4"> Lee and Cho 2013 </a> </td>
+    <td> 2013 </td>
+    <td> Accelerometer </td>
+    <td> - </td>
+    <td> - </td>
+    <td> - </td>
+    <td> Gesture Classification </td>
+    <td> No </td>
+    <td> 20 </td>
+    <td> Discrete </td>
+    <td> Dynamic </td>
+    <td> Hand </td>
+    <td> No </td>  
+  </tr>
+
+  <tr>
+    <td> <a href="https://ieeexplore.ieee.org/document/6651735"> Zhou et al. 2014 </a> </td>
+    <td> 2014 </td>
+    <td> Accelerometer </td>
+    <td> Camera </td>
+    <td> - </td>
+    <td> - </td>
+    <td> Gesture Classification </td>
+    <td> No </td>
+    <td> 10 </td>
+    <td> Discrete </td>
+    <td> Dynamic </td>
+    <td> Hand </td>
+    <td> No </td>  
+  </tr>
+
+  <tr>
+    <td rowspan="3"> <a href="https://ieeexplore.ieee.org/document/6907571"> Iengo et al. 2014 </a> </td>
+    <td rowspan="3"> 2014 </td>
+    <td rowspan="3"> RGB-D Camera </td>
+    <td rowspan="3"> - </td>
+    <td rowspan="3"> - </td>
+    <td> - </td>
+    <td> Gesture Recognition </td>
+    <td> No </td>
+    <td> 5 </td>
+    <td> Discrete </td>
+    <td> Dynamic </td>
+    <td> Arm </td>
+    <td> No </td>  
+  </tr>
+
+  <tr>
+    <td> - </td>
+    <td> Gesture Recognition </td>
+    <td> No </td>
+    <td> 12 </td>
+    <td> Discrete </td>
+    <td> Dynamic </td>
+    <td> Full Body </td>
+    <td> No </td>  
+  </tr>
+
+  <tr>
+    <td> HRI </td>
+    <td> Gesture Recognition </td>
+    <td> No </td>
+    <td> 3 </td>
+    <td> Discrete </td>
+    <td> Dynamic </td>
+    <td> Arm </td>
+    <td> No </td>  
+  </tr>
 </table>
 </div>
