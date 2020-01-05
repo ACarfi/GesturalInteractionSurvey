@@ -224,6 +224,120 @@ The following table represent an extensive literature review where all the analy
     <td> No </td>  
   </tr>
 
+  <tr>
+    <td rowspan="2"> <a href="https://link.springer.com/article/10.1007%2Fs00779-005-0033-8"> Kela et al. 2006 </a> </td>
+    <td rowspan="2"> 2006 </td>
+    <td rowspan="2"> Accelerometer </td>
+    <td rowspan="2"> Button </td>
+    <td rowspan="2"> - </td>
+    <td rowspan="2"> HCI </td>
+    <td> Gesture Recognition </td>
+    <td> No </td>
+    <td> 8 </td>
+    <td> Discrete </td>
+    <td> Dynamic </td>
+    <td> Hand </td>
+    <td> No </td>  
+  </tr>
+
+  <tr>
+    <td> Feature Extraction </td>
+    <td> No </td>
+    <td> - </td>
+    <td> Continuous </td>
+    <td> Dynamic </td>
+    <td> Hand </td>
+    <td> No </td>  
+  </tr>
+
+  <tr>
+    <td> <a href="https://www.sciencedirect.com/science/article/pii/S0262885606002897?via%3Dihub"> Nickel and Stiefelhagen 2007 </a> </td>
+    <td> 2007 </td>
+    <td> Stereo Camera</td>
+    <td> - </td>
+    <td> - </td>
+    <td> - </td>
+    <td> Gesture Recognition </td>
+    <td> No </td>
+    <td> 1 </td>
+    <td> Discrete </td>
+    <td> Dynamic </td>
+    <td> Hand </td>
+    <td> Yes </td>  
+  </tr>
+
+  <tr>
+    <td> <a href="https://ieeexplore.ieee.org/document/4373770"> Kim et al. 2007 </a> </td>
+    <td> 2007 </td>
+    <td> Proximity Sensors </td>
+    <td> - </td>
+    <td> - </td>
+    <td> - </td>
+    <td> Gesture Recognition </td>
+    <td> No </td>
+    <td> 5 </td>
+    <td> Discrete </td>
+    <td> Dynamic Static </td>
+    <td> Hand </td>
+    <td> No </td>  
+  </tr>
   
+  <tr>
+    <td> <a href="https://eudl.eu/doi/10.4108/bodynets.2007.149"> Bailador et al. 2007 </a> </td>
+    <td> 2007 </td>
+    <td> Accelerometer </td>
+    <td> Button </td>
+    <td> - </td>
+    <td> - </td>
+    <td> Gesture Recognition </td>
+    <td> No </td>
+    <td> 8 </td>
+    <td> Discrete </td>
+    <td> Dynamic </td>
+    <td> Hand </td>
+    <td> No </td>  
+  </tr>
+
+  <tr>
+    <td> <a href="https://dl.acm.org/doi/10.1145/1347390.1347395"> Schlomer et al. 2008 </a> </td>
+    <td> 2008 </td>
+    <td> Accelerometer </td>
+    <td> Button </td>
+    <td> - </td>
+    <td> - </td>
+    <td> Gesture Recognition </td>
+    <td> No </td>
+    <td> 5 </td>
+    <td> Discrete </td>
+    <td> Dynamic </td>
+    <td> Hand </td>
+    <td> No </td>  
+  </tr>
+
+  <tr>
+    <td rowspan="2"> <a href="https://ieeexplore.ieee.org/document/5326285"> Neto et al. 2009 </a> </td>
+    <td rowspan="2"> 2009 </td>
+    <td rowspan="2"> Accelerometer </td>
+    <td rowspan="2"> - </td>
+    <td rowspan="2"> - </td>
+    <td rowspan="2"> HRI </td>
+    <td> Gesture Classification </td>
+    <td> No </td>
+    <td> 12 </td>
+    <td> Discrete </td>
+    <td> Dynamic </td>
+    <td> Arm </td>
+    <td> No </td>  
+  </tr>
+
+  <tr>
+    <td> Gesture Recognition </td>
+    <td> No </td>
+    <td> 2 </td>
+    <td> Discrete </td>
+    <td> Static </td>
+    <td> Arm </td>
+    <td> No </td>  
+  </tr>
 </table>
 </div>
