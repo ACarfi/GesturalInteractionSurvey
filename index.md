@@ -531,5 +531,191 @@ The following table represent an extensive literature review where all the analy
     <td> Arm </td>
     <td> No </td>  
   </tr>
+
+  <tr>
+    <td rowspan="2"> <a href="https://ieeexplore.ieee.org/document/6748952"> Lu et al. 2014 </a> </td>
+    <td rowspan="2"> 2014 </td>
+    <td rowspan="2"> EMG </td>
+    <td rowspan="2"> Accelerometer </td>
+    <td rowspan="2"> - </td>
+    <td rowspan="2"> HCI </td>
+    <td> Gesture Recognition </td>
+    <td> No </td>
+    <td> 4 </td>
+    <td> Discrete </td>
+    <td> Static </td>
+    <td> Fingers Hand </td>
+    <td> No </td>  
+  </tr>
+
+  <tr>
+    <td> Gesture Recognition </td>
+    <td> No </td>
+    <td> 15 </td>
+    <td> Discrete </td>
+    <td> Static Dynamic </td>
+    <td> Fingers Arm </td>
+    <td> No </td>  
+  </tr>
+
+  <tr>
+    <td> <a href="https://ieeexplore.ieee.org/document/6774446"> Lee et al. 2014 </a> </td>
+    <td> 2014 </td>
+    <td> Stereo Dynamic Vision Sensor </td>
+    <td> - </td>
+    <td> - </td>
+    <td> - </td>
+    <td> Gesture Recognition </td>
+    <td> No </td>
+    <td> 11 </td>
+    <td> Discrete </td>
+    <td> Dynamic </td>
+    <td> Hand </td>
+    <td> No </td>  
+  </tr>
+
+  <tr>
+    <td> <a href="https://ieeexplore.ieee.org/document/6739134"> Liu et al. 2014 </a> </td>
+    <td> 2014 </td>
+    <td> RGB-D Camera</td>
+    <td> 6-axis IMU </td>
+    <td> - </td>
+    <td> - </td>
+    <td> Gesture Classification </td>
+    <td> No </td>
+    <td> 5 </td>
+    <td> Discrete </td>
+    <td> Dynamic Static </td>
+    <td> Arm </td>
+    <td> No </td>  
+  </tr>
+
+  <tr>
+    <td> <a href="https://link.springer.com/article/10.1007%2Fs11042-013-1368-1"> Yin et al. 2014 </a> </td>
+    <td> 2014 </td>
+    <td> Accelerometer </td>
+    <td> Button </td>
+    <td> - </td>
+    <td> - </td>
+    <td> Gesture Recognition </td>
+    <td> No </td>
+    <td> 8 </td>
+    <td> Discrete </td>
+    <td> Dynamic </td>
+    <td> Hand </td>
+    <td> No </td>  
+  </tr>
+
+  <tr>
+    <td> <a href="https://ieeexplore.ieee.org/document/6883176?arnumber=6883176"> Ohn-Bar and Trivedi 2014 </a> </td>
+    <td> 2014 </td>
+    <td> RGB-D Camera </td>
+    <td> - </td>
+    <td> - </td>
+    <td> - </td>
+    <td> Gesture Recognition </td>
+    <td> No </td>
+    <td> 19 </td>
+    <td> Discrete </td>
+    <td> Dynamic </td>
+    <td> Fingers Hand </td>
+    <td> No </td>  
+  </tr>
+
+  <tr>
+    <td> <a href="https://ieeexplore.ieee.org/document/6854641"> Duffner et al. 2014 </a> </td>
+    <td> 2014 </td>
+    <td> 6-axis IMU </td>
+    <td> - </td>
+    <td> - </td>
+    <td> - </td>
+    <td> Gesture Classification </td>
+    <td> No </td>
+    <td> 9 </td>
+    <td> Discrete </td>
+    <td> Dynamic </td>
+    <td> Hand </td>
+    <td> No </td>  
+  </tr>
+
+  <tr>
+    <td> <a href="https://ieeexplore.ieee.org/document/7009989"> Xie et al. 2015 </a> </td>
+    <td> 2015 </td>
+    <td> Accelerometer </td>
+    <td> - </td>
+    <td> - </td>
+    <td> - </td>
+    <td> Gesture Recognition </td>
+    <td> No </td>
+    <td> 12 </td>
+    <td> Discrete </td>
+    <td> Dynamic </td>
+    <td> Fingers </td>
+    <td> No </td>  
+  </tr>
+
+  <tr>
+    <td> <a href="https://dl.acm.org/doi/10.1145/2643204"> Caramiaux et al. 2015 </a> </td>
+    <td> 2015 </td>
+    <td> Infrared Camera </td>
+    <td> - </td>
+    <td> - </td>
+    <td> HCI </td>
+    <td> Gesture Recognition </td>
+    <td> No </td>
+    <td> 3 </td>
+    <td> Discrete </td>
+    <td> Dynamic </td>
+    <td> Hand </td>
+    <td> No </td>  
+  </tr>
+
+  <tr>
+    <td> <a href="https://ieeexplore.ieee.org/document/7363627"> Marqués and Basterretxea 2015 </a> </td>
+    <td> 2015 </td>
+    <td> Accelerometer </td>
+    <td> - </td>
+    <td> - </td>
+    <td> - </td>
+    <td> Gesture Classification </td>
+    <td> No </td>
+    <td> 7 </td>
+    <td> Discrete </td>
+    <td> Dynamic </td>
+    <td> Hand </td>
+    <td> No </td>  
+  </tr>
+
+  <tr>
+    <td> <a href="https://journals.sagepub.com/doi/10.5772/59974"> Cicirelli et al. 2015 </a> </td>
+    <td> 2015 </td>
+    <td> RGB-D Camera </td>
+    <td> - </td>
+    <td> - </td>
+    <td> HRI </td>
+    <td> Gesture Recognition </td>
+    <td> No </td>
+    <td> 10 </td>
+    <td> Discrete </td>
+    <td> Dynamic </td>
+    <td> Arm </td>
+    <td> No </td>  
+  </tr>
+
+  <tr>
+    <td> <a href="https://journals.sagepub.com/doi/10.5772/59974"> Kılıboz and Güdükbay 2015 </a> </td>
+    <td> 2015 </td>
+    <td> Magnetic 3D Position tracker </td>
+    <td> - </td>
+    <td> - </td>
+    <td> HCI </td>
+    <td> Gesture Recognition </td>
+    <td> No </td>
+    <td> 11 </td>
+    <td> Discrete </td>
+    <td> Dynamic </td>
+    <td> Hand </td>
+    <td> No </td>  
+  </tr>
 </table>
 </div>
