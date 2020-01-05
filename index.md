@@ -705,7 +705,7 @@ The following table represent an extensive literature review where all the analy
   <tr>
     <td> <a href="https://journals.sagepub.com/doi/10.5772/59974"> Kılıboz and Güdükbay 2015 </a> </td>
     <td> 2015 </td>
-    <td> Magnetic 3D Position tracker </td>
+    <td> Magnetic 3D Position Tracker </td>
     <td> - </td>
     <td> - </td>
     <td> HCI </td>
@@ -715,6 +715,116 @@ The following table represent an extensive literature review where all the analy
     <td> Discrete </td>
     <td> Dynamic </td>
     <td> Hand </td>
+    <td> No </td>  
+  </tr>
+
+  <tr>
+    <td rowspan="3"> <a href="https://ieeexplore.ieee.org/document/6858035"> Hsu et al. 2015 </a> </td>
+    <td rowspan="3"> 2015 </td>
+    <td rowspan="3"> 9-axis IMU </td>
+    <td rowspan="3"> - </td>
+    <td rowspan="3"> - </td>
+    <td rowspan="3"> - </td>
+    <td> Gesture Recognition </td>
+    <td> No </td>
+    <td> 10 </td>
+    <td> Discrete </td>
+    <td> Dynamic </td>
+    <td> Hand </td>
+    <td> No </td>  
+  </tr>
+
+  <tr>
+    <td> Gesture Recognition </td>
+    <td> No </td>
+    <td> 26 </td>
+    <td> Discrete </td>
+    <td> Dynamic </td>
+    <td> Hand </td>
+    <td> No </td>  
+  </tr>
+
+  <tr>
+    <td> Gesture Recognition </td>
+    <td> No </td>
+    <td> 8 </td>
+    <td> Discrete </td>
+    <td> Dynamic </td>
+    <td> Hand </td>
+    <td> No </td>  
+  </tr>
+
+  <tr>
+    <td> <a href="http://www.scitepress.org/DigitalLibrary/Link.aspx?doi=10.5220/0005276900990108"> Georgi et al. 2015 </a> </td>
+    <td> 2015 </td>
+    <td> EMG </td>
+    <td> 6-axis IMU </td>
+    <td> Button </td>
+    <td> - </td>
+    <td> Gesture Recognition </td>
+    <td> No </td>
+    <td> 12 </td>
+    <td> Discrete </td>
+    <td> Dynamic </td>
+    <td> Fingers Hand </td>
+    <td> No </td>  
+  </tr>
+
+  <tr>
+    <td> <a href="https://ieeexplore.ieee.org/document/6965622"> Wang et al. 2015 </a> </td>
+    <td> 2015 </td>
+    <td> RGB-D </td>
+    <td> - </td>
+    <td> - </td>
+    <td> - </td>
+    <td> Gesture Classification </td>
+    <td> No </td>
+    <td> 10 </td>
+    <td> Discrete </td>
+    <td> Static </td>
+    <td> Fingers </td>
+    <td> No </td>  
+  </tr>
+
+  <tr>
+    <td> <a href="https://ieeexplore.ieee.org/document/7497574"> Galka et al. 2016 </a> </td>
+    <td> 2016 </td>
+    <td> 7 Accelerometer </td>
+    <td> - </td>
+    <td> - </td>
+    <td> - </td>
+    <td> Gesture Classification </td>
+    <td> No </td>
+    <td> 40 </td>
+    <td> Discrete </td>
+    <td> Dynamic </td>
+    <td> Fingers Hand Arm </td>
+    <td> No </td>  
+  </tr>
+
+  <tr>
+    <td rowspan="2"> <a href="https://ieeexplore.ieee.org/document/7444820"> Moazen et al. 2016 </a> </td>
+    <td rowspan="2"> 2016 </td>
+    <td rowspan="2"> Accelerometer </td>
+    <td rowspan="2"> - </td>
+    <td rowspan="2"> - </td>
+    <td rowspan="2"> - </td>
+    <td> Gesture Recognition </td>
+    <td> No </td>
+    <td> 5 </td>
+    <td> Discrete </td>
+    <td> Dynamic </td>
+    <td> Arm </td>
+    <td> No </td>  
+  </tr>
+
+  <tr>
+    <td> Gesture Recognition </td>
+    <td> No </td>
+    <td> 5 </td>
+    <td> Discrete </td>
+    <td> Dynamic </td>
+    <td> Arm </td>
     <td> No </td>  
   </tr>
 </table>
