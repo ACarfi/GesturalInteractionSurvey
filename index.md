@@ -827,5 +827,461 @@ The following table represent an extensive literature review where all the analy
     <td> Arm </td>
     <td> No </td>  
   </tr>
+
+  <tr>
+    <td rowspan="2"> <a href="https://www.mdpi.com/1424-8220/16/4/530"> Hong et al. 2016 </a> </td>
+    <td rowspan="2"> 2016 </td>
+    <td rowspan="2"> Accelerometer </td>
+    <td rowspan="2"> Button </td>
+    <td rowspan="2"> - </td>
+    <td rowspan="2"> - </td>
+    <td> Gesture Recognition </td>
+    <td> No </td>
+    <td> 9 </td>
+    <td> Discrete </td>
+    <td> Dynamic </td>
+    <td> Hand </td>
+    <td> No </td>  
+  </tr>
+
+  <tr>
+    <td> Gesture Recognition </td>
+    <td> No </td>
+    <td> 7 </td>
+    <td> Discrete </td>
+    <td> Dynamic </td>
+    <td> Hand </td>
+    <td> No </td>  
+  </tr>
+
+  <tr>
+    <td> <a href="https://dl.acm.org/doi/10.1145/2858036.2858466"> Wen et al. 2016 </a> </td>
+    <td> 2016 </td>
+    <td> 6-axis IMU </td>
+    <td> - </td>
+    <td> - </td>
+    <td> - </td>
+    <td> Gesture Recognition </td>
+    <td> No </td>
+    <td> 5 </td>
+    <td> Discrete </td>
+    <td> Dynamic </td>
+    <td> Fingers </td>
+    <td> No </td>  
+  </tr>
+
+  <tr>
+    <td rowspan="2"> <a href="https://ieeexplore.ieee.org/document/7442084"> Xie and Cao 2016 </a> </td>
+    <td rowspan="2"> 2016 </td>
+    <td rowspan="2"> Accelerometer </td>
+    <td rowspan="2"> Button </td>
+    <td rowspan="2"> - </td>
+    <td rowspan="2"> - </td>
+    <td> Gesture Recognition </td>
+    <td> No </td>
+    <td> 8 </td>
+    <td> Discrete </td>
+    <td> Dynamic </td>
+    <td> Hand </td>
+    <td> No </td>  
+  </tr>
+
+  <tr>
+    <td> Gesture Recognition </td>
+    <td> No </td>
+    <td> 16 </td>
+    <td> Discrete </td>
+    <td> Dynamic </td>
+    <td> Hand </td>
+    <td> No </td>  
+  </tr>
+
+  <tr>
+    <td> <a href="https://ieeexplore.ieee.org/document/7498690"> Gupta et al. 2016 </a> </td>
+    <td> 2016 </td>
+    <td> 6-axis IMU </td>
+    <td> - </td>
+    <td> - </td>
+    <td> HCI </td>
+    <td> Gesture Recognition </td>
+    <td> No </td>
+    <td> 6 </td>
+    <td> Discrete </td>
+    <td> Dynamic </td>
+    <td> Hand </td>
+    <td> No </td>  
+  </tr>
+
+  <tr>
+    <td> <a href="https://ieeexplore.ieee.org/document/7535566"> Gupta et al. 2016 </a> </td>
+    <td> 2016 </td>
+    <td> RGB-D Camera </td>
+    <td> Stereo Infrared Camera </td>
+    <td> - </td>
+    <td> - </td>
+    <td> Gesture Classification </td>
+    <td> No </td>
+    <td> 25 </td>
+    <td> Discrete </td>
+    <td> Dynamic </td>
+    <td> Fingers Hand </td>
+    <td> No </td>  
+  </tr>
+
+  <tr>
+    <td rowspan="2"> <a href="https://ieeexplore.ieee.org/document/7531881"> Lai et al. 2016 </a> </td>
+    <td rowspan="2"> 2016 </td>
+    <td rowspan="2"> RGB-D Camera </td>
+    <td rowspan="2"> - </td>
+    <td rowspan="2"> - </td>
+    <td rowspan="2"> HRI </td>
+    <td> Gesture Recognition </td>
+    <td> No </td>
+    <td> 1 </td>
+    <td> Discrete </td>
+    <td> Static </td>
+    <td> (Bi) Arm </td>
+    <td> Yes </td>  
+  </tr>
+
+  <tr>
+    <td> Feature Extraction</td>
+    <td> No </td>
+    <td> - </td>
+    <td> Continuous </td>
+    <td> Dynamic </td>
+    <td> Arm </td>
+    <td> No </td>  
+  </tr>
+  
+  <tr>
+    <td> <a href="https://ieeexplore.ieee.org/document/7780825"> Molchanov et al. 2016 </a> </td>
+    <td> 2016 </td>
+    <td> RGB-D Camera </td>
+    <td> Stereo Infrared Camera </td>
+    <td> - </td>
+    <td> HCI </td>
+    <td> Gesture Recognition </td>
+    <td> No </td>
+    <td> 25 </td>
+    <td> Discrete </td>
+    <td> Dynamic </td>
+    <td> Fingers Hand </td>
+    <td> No </td>  
+  </tr>
+
+  <tr>
+    <td rowspan="2"> <a href="https://www.sciencedirect.com/science/article/pii/S1877050917319130?via%3Dihub"> Haria et al. 2017 </a> </td>
+    <td rowspan="2"> 2017 </td>
+    <td rowspan="2"> RGB Camera </td>
+    <td rowspan="2"> - </td>
+    <td rowspan="2"> - </td>
+    <td rowspan="2"> HCI </td>
+    <td> Gesture Recognition </td>
+    <td> No </td>
+    <td> 6 </td>
+    <td> Discrete </td>
+    <td> Static </td>
+    <td> Fingers </td>
+    <td> No </td>  
+  </tr>
+
+  <tr>
+    <td> Gesture Recognition</td>
+    <td> No </td>
+    <td> 1 </td>
+    <td> Discrete </td>
+    <td> Dynamic </td>
+    <td> Hand </td>
+    <td> No </td>  
+  </tr>
+
+  <tr>
+    <td> <a href="https://ieeexplore.ieee.org/document/7989321"> Coronado et al. 2017 </a> </td>
+    <td> 2017 </td>
+    <td> Accelerometer </td>
+    <td> - </td>
+    <td> - </td>
+    <td> HRI </td>
+    <td> Feature Extraction </td>
+    <td> No </td>
+    <td> - </td>
+    <td> Continuous </td>
+    <td> Dynamic </td>
+    <td> Arm </td>
+    <td> No </td>  
+  </tr>
+
+  <tr>
+    <td> <a href="https://ieeexplore.ieee.org/document/8071943"> Shin et al. 2017 </a> </td>
+    <td> 2017 </td>
+    <td> Epidermal Tactile Sensor </td>
+    <td> - </td>
+    <td> - </td>
+    <td> - </td>
+    <td> Gesture Classification </td>
+    <td> No </td>
+    <td> 5 </td>
+    <td> Discrete </td>
+    <td> Static </td>
+    <td> Fingers Hand </td>
+    <td> No </td>  
+  </tr>
+
+  <tr>
+    <td rowspan="2"> <a href="https://www.sciencedirect.com/science/article/pii/S2351978917303621?via%3Dihub"> Mendes et al. 2017 </a> </td>
+    <td rowspan="2"> 2017 </td>
+    <td rowspan="2"> Infrared Camera </td>
+    <td rowspan="2"> - </td>
+    <td rowspan="2"> - </td>
+    <td rowspan="2"> HRI </td>
+    <td> Gesture Recognition </td>
+    <td> No </td>
+    <td> 12 </td>
+    <td> Discrete </td>
+    <td> Static </td>
+    <td> Fingers Hand </td>
+    <td> No </td>  
+  </tr>
+
+  <tr>
+    <td> Gesture Recognition</td>
+    <td> No </td>
+    <td> 10 </td>
+    <td> Discrete </td>
+    <td> Dynamic </td>
+    <td> Hand </td>
+    <td> No </td>  
+  </tr>
+
+  <tr>
+    <td> <a href="https://ieeexplore.ieee.org/document/8260797"> Naguri and Bunescu 2017 </a> </td>
+    <td> 2017 </td>
+    <td> Infrared Camera </td>
+    <td> - </td>
+    <td> - </td>
+    <td> - </td>
+    <td> Gesture Recognition </td>
+    <td> No </td>
+    <td> 6 </td>
+    <td> Discrete </td>
+    <td> Dynamic </td>
+    <td> Fingers Hand </td>
+    <td> No </td>  
+  </tr>
+  
+  <tr>
+    <td> <a href="https://link.springer.com/article/10.1007%2Fs00521-016-2294-8"> Oyedotun and Khashman 2017 </a> </td>
+    <td> 2017 </td>
+    <td> RGB Camera </td>
+    <td> - </td>
+    <td> - </td>
+    <td> - </td>
+    <td> Gesture Classification </td>
+    <td> No </td>
+    <td> 24 </td>
+    <td> Discrete </td>
+    <td> Static </td>
+    <td> Fingers Hand </td>
+    <td> No </td>  
+  </tr>
+
+  <tr>
+    <td> <a href="https://ieeexplore.ieee.org/document/8103373"> Bao et al. 2017 </a> </td>
+    <td> 2017 </td>
+    <td> RGB Camera </td>
+    <td> - </td>
+    <td> - </td>
+    <td> - </td>
+    <td> Gesture Classification </td>
+    <td> No </td>
+    <td> 7 </td>
+    <td> Discrete </td>
+    <td> Static </td>
+    <td> Fingers </td>
+    <td> No </td>  
+  </tr>
+
+  <tr>
+    <td> <a href="https://ieeexplore.ieee.org/document/8665314"> Bolano et al. 2018 </a> </td>
+    <td> 2018 </td>
+    <td> RGB-D Camera </td>
+    <td> - </td>
+    <td> - </td>
+    <td> HRI </td>
+    <td> Feature Extraction </td>
+    <td> No </td>
+    <td> - </td>
+    <td> Continuous </td>
+    <td> Dynamic </td>
+    <td> Hand </td>
+    <td> Yes </td>  
+  </tr>
+
+  <tr>
+    <td> <a href="http://www.mecs-press.org/ijigsp/ijigsp-v10-n2/v10n2-2.html"> Buddhikot et al. 2018 </a> </td>
+    <td> 2018 </td>
+    <td> RGB Camera </td>
+    <td> - </td>
+    <td> - </td>
+    <td> HCI </td>
+    <td> Gesture Recognition </td>
+    <td> No </td>
+    <td> 6 </td>
+    <td> Discrete </td>
+    <td> Dynamic </td>
+    <td> Fingers Hand </td>
+    <td> No </td>  
+  </tr>
+
+  <tr>
+    <td rowspan="2"> <a href="https://link.springer.com/article/10.1007%2Fs11042-018-5998-1"> Zeng et al. 2018 </a> </td>
+    <td rowspan="2"> 2018 </td>
+    <td rowspan="2"> Infrared Camera </td>
+    <td rowspan="2"> - </td>
+    <td rowspan="2"> - </td>
+    <td rowspan="2"> - </td>
+    <td> Gesture Classification </td>
+    <td> No </td>
+    <td> 10 </td>
+    <td> Discrete </td>
+    <td> Dynamic </td>
+    <td> Fingers </td>
+    <td> No </td>  
+  </tr>
+
+  <tr>
+    <td> Gesture Classification</td>
+    <td> No </td>
+    <td> 26 </td>
+    <td> Discrete </td>
+    <td> Dynamic </td>
+    <td> Fingers </td>
+    <td> No </td>  
+  </tr>
+
+  <tr>
+    <td> <a href="https://www.sciencedirect.com/science/article/pii/S0925231218309925?via%3Dihub"> Hu et al. 2018 </a> </td>
+    <td> 2018 </td>
+    <td> RGB Camera </td>
+    <td> - </td>
+    <td> - </td>
+    <td> - </td>
+    <td> Gesture Recognition </td>
+    <td> No </td>
+    <td> 5 </td>
+    <td> Discrete </td>
+    <td> Dynamic </td>
+    <td> Fingers Arm </td>
+    <td> No </td>  
+  </tr>
+
+  <tr>
+    <td> <a href="https://www.mdpi.com/2220-9964/7/1/37"> Ma et al. 2018 </a> </td>
+    <td> 2018 </td>
+    <td> RGB-D Camera </td>
+    <td> - </td>
+    <td> - </td>
+    <td> - </td>
+    <td> Gesture Recognition </td>
+    <td> No </td>
+    <td> 8 </td>
+    <td> Discrete </td>
+    <td> Dynamic </td>
+    <td> (Bi) Hand Arm </td>
+    <td> No </td>  
+  </tr>
+
+  <tr>
+    <td> <a href="https://www.mdpi.com/1424-8220/19/18/3827"> Kim et al. 2019 </a> </td>
+    <td> 2019 </td>
+    <td> Accelerometer </td>
+    <td> Button </td>
+    <td> - </td>
+    <td> - </td>
+    <td> Gesture Recognition </td>
+    <td> No </td>
+    <td> 10 </td>
+    <td> Discrete </td>
+    <td> Dynamic </td>
+    <td> Hand </td>
+    <td> No </td>  
+  </tr>
+
+  <tr>
+    <td> <a href="https://onlinelibrary.wiley.com/doi/full/10.1002/rob.21837"> Islam et al. 2019 </a> </td>
+    <td> 2019 </td>
+    <td> RGB Camera </td>
+    <td> - </td>
+    <td> - </td>
+    <td> HRI </td>
+    <td> Gesture Recognition </td>
+    <td> No </td>
+    <td> 8 </td>
+    <td> Discrete </td>
+    <td> Static </td>
+    <td> Fingers </td>
+    <td> No </td>  
+  </tr>
+
+  <tr>
+    <td rowspan="5"> <a href="https://www.cambridge.org/core/journals/ai-edam/article/gesturebased-system-for-next-generation-natural-and-intuitive-interfaces/F429C70029095C3AB32FFEB28F8F68CB"> Huang et al. 2019 </a> </td>
+    <td rowspan="5"> 2019 </td>
+    <td rowspan="5"> RGB-D Camera </td>
+    <td rowspan="5"> - </td>
+    <td rowspan="5"> - </td>
+    <td> - </td>
+    <td> Gesture Recognition </td>
+    <td> No </td>
+    <td> 10 </td>
+    <td> Discrete </td>
+    <td> Dynamic </td>
+    <td> Hand Arm </td>
+    <td> No </td>  
+  </tr>
+
+  <tr>
+    <td> - </td>
+    <td> Gesture Recognition </td>
+    <td> No </td>
+    <td> 10 </td>
+    <td> Discrete </td>
+    <td> Dynamic </td>
+    <td> Hand Arm </td>
+    <td> No </td>
+  </tr>
+
+  <tr>
+    <td> HCI </td>
+    <td> Gesture Recognition </td>
+    <td> No </td>
+    <td> 10 </td>
+    <td> Discrete </td>
+    <td> Dynamic </td>
+    <td> Hand Arm </td>
+    <td> No </td>
+  </tr>
+
+  <tr>
+    <td> HCI </td>
+    <td> Gesture Recognition </td>
+    <td> No </td>
+    <td> 10 </td>
+    <td> Discrete </td>
+    <td> Dynamic </td>
+    <td> Hand Arm </td>
+    <td> No </td>
+  </tr>
+
+  <tr>
+    <td> HCI </td>
+    <td> Gesture Recognition </td>
+    <td> No </td>
+    <td> 15 </td>
+    <td> Discrete Continuous </td>
+    <td> Static Dynamic </td>
+    <td> Fingers Arm </td>
+    <td> No </td>
+  </tr>
 </table>
 </div>
