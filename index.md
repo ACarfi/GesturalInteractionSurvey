@@ -916,11 +916,11 @@ This work is part of the PhD thesis of Alessandro Carfì (University of Genoa) c
   <tr>
     <td rowspan="2"> <a href="https://www.sciencedirect.com/science/article/pii/S001044851500086X"> Ramani Vinayak 2015 </a> </td>
     <td rowspan="2"> 2015 </td>
-    <td rowspan="2"> RGB-D Camera </td>
+    <td> RGB-D Camera </td>
     <td rowspan="2"> - </td>
     <td rowspan="2"> - </td>
     <td rowspan="2"> HCI </td>
-    <td> Feature Extraction </td>
+    <td rowspan="2"> Feature Extraction </td>
     <td rowspan="2"> No </td>
     <td rowspan="2"> - </td>
     <td rowspan="2"> Continuous </td>
