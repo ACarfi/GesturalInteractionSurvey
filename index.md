@@ -119,6 +119,22 @@ The following table represent an extensive literature review where all the analy
   </tr>
 
   <tr>
+    <td> <a href="http://ieeexplore.ieee.org/document/868448/"> Mu-Chun Su 2000 </a> </td>
+    <td> 2000 </td>
+    <td> Electro-mechanical Strain Gauges</td>
+    <td> - </td>
+    <td> - </td>
+    <td> - </td>
+    <td> Gesture Classification </td>
+    <td> No </td>
+    <td> 90 </td>
+    <td> Discrete </td>
+    <td> Dynamic </td>
+    <td> (Bi) Fingers </td>
+    <td> No </td>  
+  </tr>
+
+  <tr>
     <td> <a href="https://ieeexplore.ieee.org/document/1045664"> Rogalla et al. 2002 </a> </td>
     <td> 2002 </td>
     <td> Camera</td>
@@ -399,6 +415,48 @@ The following table represent an extensive literature review where all the analy
   </tr>
 
   <tr>
+    <td> <a href="https://www.sciencedirect.com/science/article/pii/S107158191100053X"> Ni et al.2011 </a> </td>
+    <td> 2011 </td>
+    <td> Motion Capture </td>
+    <td> Button </td>
+    <td> - </td>
+    <td> HCI </td>
+    <td> Feature Extraction </td>
+    <td> No </td>
+    <td> - </td>
+    <td> Continuous </td>
+    <td> Dynamic </td>
+    <td> Arm </td>
+    <td> No </td>  
+  </tr>
+
+  <tr>
+    <td rowspan="2"> <a href="https://ieeexplore.ieee.org/document/5735233"> Zhang et al. 2011 </a> </td>
+    <td rowspan="2"> 2011 </td>
+    <td rowspan="2"> Accelerometer </td>
+    <td rowspan="2"> EMG </td>
+    <td rowspan="2"> - </td>
+    <td rowspan="2"> HCI </td>
+    <td> Gesture Recognition </td>
+    <td> No </td>
+    <td> 72 </td>
+    <td> Discrete </td>
+    <td> Dynamic </td>
+    <td> Hand Fingers </td>
+    <td> No </td>  
+  </tr>
+
+  <tr>
+    <td> Gesture Recognition </td>
+    <td> No </td>
+    <td> 18 </td>
+    <td> Discrete </td>
+    <td> Dynamic Static </td>
+    <td> Hand Fingers </td>
+    <td> No </td>  
+  </tr>
+
+  <tr>
     <td> <a href="https://ieeexplore.ieee.org/document/6152463"> Chen et al. 2012 </a> </td>
     <td> 2012 </td>
     <td> Accelerometer </td>
@@ -447,6 +505,32 @@ The following table represent an extensive literature review where all the analy
   </tr>
 
   <tr>
+    <td rowspan="2"> <a href="http://link.springer.com/10.1007/s00345-012-0879-0"> Ruppert et al. 2012 </a> </td>
+    <td rowspan="2"> 2012 </td>
+    <td rowspan="2"> RGB-D Camera </td>
+    <td rowspan="2"> - </td>
+    <td rowspan="2"> - </td>
+    <td rowspan="2"> HCI </td>
+    <td> Gesture Recognition </td>
+    <td> No </td>
+    <td> 4 </td>
+    <td> Discrete </td>
+    <td> Dynamic </td>
+    <td> Hand </td>
+    <td> No </td>  
+  </tr>
+
+  <tr>
+    <td> Feature Extraction </td>
+    <td> No </td>
+    <td> - </td>
+    <td> Continuous </td>
+    <td> Dynamic </td>
+    <td> Hand </td>
+    <td> Yes </td>  
+  </tr>
+
+  <tr>
     <td> <a href="https://dl.acm.org/doi/10.1145/2505483.2505487"> Porzi et al. 2013 </a> </td>
     <td> 2013 </td>
     <td> Accelerometer </td>
@@ -476,6 +560,22 @@ The following table represent an extensive literature review where all the analy
     <td> Dynamic </td>
     <td> Hand </td>
     <td> No </td>  
+  </tr>
+
+  <tr>
+    <td> <a href="https://www.sciencedirect.com/science/article/pii/S0010448512002163"> Murugappan et al. 2013 </a> </td>
+    <td> 2013 </td>
+    <td> RGB-D Camera </td>
+    <td> - </td>
+    <td> - </td>
+    <td> - </td>
+    <td> Gesture Recognition </td>
+    <td> No </td>
+    <td> 3 </td>
+    <td> Continuous Discrete </td>
+    <td> Dynamic Static </td>
+    <td> Hand Fingers </td>
+    <td> Yes </td>  
   </tr>
 
   <tr>
@@ -639,6 +739,22 @@ The following table represent an extensive literature review where all the analy
   </tr>
 
   <tr>
+    <td> <a href="https://ieeexplore.ieee.org/document/6918516?arnumber=6918516&tag=1"> Du et al. 2014 </a> </td>
+    <td> 2014 </td>
+    <td> Infrared Camera </td>
+    <td> - </td>
+    <td> - </td>
+    <td> HRI </td>
+    <td> Gesture Recognition </td>
+    <td> No </td>
+    <td> 2 </td>
+    <td> Continuous Discrete </td>
+    <td> Dynamic Static </td>
+    <td> Hand Fingers </td>
+    <td> Yes </td>  
+  </tr>
+
+  <tr>
     <td> <a href="https://ieeexplore.ieee.org/document/7009989"> Xie et al. 2015 </a> </td>
     <td> 2015 </td>
     <td> Accelerometer </td>
@@ -784,6 +900,58 @@ The following table represent an extensive literature review where all the analy
     <td> Static </td>
     <td> Fingers </td>
     <td> No </td>  
+  </tr>
+
+  <tr>
+    <td rowspan="2"> <a href="https://www.sciencedirect.com/science/article/pii/S001044851500086X"> Ramani Vinayak 2015 </a> </td>
+    <td rowspan="2"> 2015 </td>
+    <td rowspan="2"> RGB-D Camera </td>
+    <td rowspan="2"> - </td>
+    <td rowspan="2"> - </td>
+    <td rowspan="2"> HCI </td>
+    <td> Feature Extraction </td>
+    <td rowspan="2"> No </td>
+    <td rowspan="2"> - </td>
+    <td rowspan="2"> Continuous </td>
+    <td rowspan="2"> Dynamic </td>
+    <td rowspan="2"> Hand Fingers </td>
+    <td rowspan="2"> Yes </td>  
+  </tr>
+
+  <tr>
+    <td> Infrared Camera </td>  
+  </tr>
+
+  <tr>
+    <td> <a href="http://ieeexplore.ieee.org/document/7160767/"> Li et al. 2015 </a> </td>
+    <td> 2015 </td>
+    <td> 9-axis IMU </td>
+    <td> - </td>
+    <td> - </td>
+    <td> - </td>
+    <td> Gesture Recognition </td>
+    <td> No </td>
+    <td> 11 </td>
+    <td> Discrete </td>
+    <td> Dynamic </td>
+    <td> Hand </td>
+    <td> No </td>  
+  </tr>
+
+  <tr>
+    <td> <a href="http://ieeexplore.ieee.org/document/7096988/"> Ahmad et al. 2015 </a> </td>
+    <td> 2015 </td>
+    <td> Infrared Camera </td>
+    <td> - </td>
+    <td> - </td>
+    <td> - </td>
+    <td> Feature Extraction </td>
+    <td> No </td>
+    <td> 1 </td>
+    <td> Discrete </td>
+    <td> Dynamic </td>
+    <td> Fingers </td>
+    <td> Yes </td>  
   </tr>
 
   <tr>
