@@ -1,6 +1,17 @@
 
 ## Gestural Interaction Survey 
-The following table represent an extensive literature review where all the analyzed articles have been classified to better identify the problem they are solving.
+This website contains the tabular description of a literature review about the usage of gestures in a human machine interaction (HMI) scenario. 
+
+The usage of gestures in an HMI scenario is three folded. The gestures should be sensed (Sensing), the sensory information should be processed to identify the performed gestures (Processing) and finally the machine, eather a computer application or a physical system, should react to the provided command (Reaction).
+
+Furthemore, the gesture can be described according to four characteristics:
+
+- Effect, can be continuous or discrete and basically descibes the nature of the machine space to which the human gestures are mapped. If the gesture interacts, and therefore controls a continuous space, we refer to continuous gestures, otherwise we have discrete ones.
+- Temporal, can be static or dynamic and describes weather the gesture meaning is represented by a temporal behaviour (dynamic) or by a single posture (static).
+- Focus, this characteristic is used to describe which body component is relevant to describe the gesture.
+- Spatial, can be spatial related or unrelated. Spatial unrelated gestures have the same meaning independenty of where they are performed. Contrary the meaning conveyed by spartial related gestures depends from where they are performed (e.g pushing gesture in a specific area to press a virtual button).
+
+This work is part of the PhD thesis of Alessandro Carfì (University of Genoa) currentyl under evaluation.
 
 
 <div  style="width:100%">
