@@ -1150,6 +1150,22 @@ This work is part of the PhD thesis of Alessandro Carfì (University of Genoa) c
   </tr>
 
   <tr>
+    <td> <a href="https://www.sciencedirect.com/science/article/pii/S0031320315002745?via%3Dihub"> Zhou et al. 2016 </a> </td>
+    <td> 2016 </td>
+    <td> RGB Camera </td>
+    <td> - </td>
+    <td> - </td>
+    <td> - </td>
+    <td> Gesture Classification </td>
+    <td> No </td>
+    <td> 14 </td>
+    <td> Discrete </td>
+    <td> Static </td>
+    <td> Hand Fingers </td>
+    <td> No </td>  
+  </tr>
+
+  <tr>
     <td rowspan="2"> <a href="https://www.sciencedirect.com/science/article/pii/S1877050917319130?via%3Dihub"> Haria et al. 2017 </a> </td>
     <td rowspan="2"> 2017 </td>
     <td rowspan="2"> RGB Camera </td>
