@@ -1388,6 +1388,22 @@ This work is part of the PhD thesis of Alessandro Carfì (University of Genoa) c
   </tr>
 
   <tr>
+    <td> <a href="https://ieeexplore.ieee.org/abstract/document/8525769"> Carfi et al. 2018 </a> </td>
+    <td> 2018 </td>
+    <td> Accelerometer </td>
+    <td> - </td>
+    <td> - </td>
+    <td> - </td>
+    <td> Gesture Recognition </td>
+    <td> No </td>
+    <td> 6 </td>
+    <td> Discrete </td>
+    <td> Dynamic </td>
+    <td> Arm </td>
+    <td> No </td>  
+  </tr>
+
+  <tr>
     <td> <a href="https://www.mdpi.com/1424-8220/19/18/3827"> Kim et al. 2019 </a> </td>
     <td> 2019 </td>
     <td> Accelerometer </td>
