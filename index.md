@@ -1298,6 +1298,22 @@ This work is part of the PhD thesis of Alessandro Carfì (University of Genoa) c
   </tr>
 
   <tr>
+    <td> <a href="https://ieeexplore.ieee.org/abstract/document/8237190"> Liang et al. 2017 </a> </td>
+    <td> 2017 </td>
+    <td> RGB-D Camera </td>
+    <td> - </td>
+    <td> - </td>
+    <td> - </td>
+    <td> Feature Extraction </td>
+    <td> No </td>
+    <td> - </td>
+    <td> Continuous </td>
+    <td> Dynamic </td>
+    <td> Hand </td>
+    <td> Yes </td>  
+  </tr>
+
+  <tr>
     <td> <a href="https://ieeexplore.ieee.org/document/8665314"> Bolano et al. 2018 </a> </td>
     <td> 2018 </td>
     <td> RGB-D Camera </td>
