@@ -52,8 +52,12 @@ The repository contains four files:
 - gesture_survey.csv a CSV version of the Excel file.
 
 ## How to contribute
-It is possible to contribute to this survey by submitting a pull request where all the files contained in the repository have been properly updated to include a new reference. Each pull request should involve only one single new article.
+It is possible to contribute to this survey by submitting a pull request where all the files contained in the repository have been properly updated to include a new reference. Each pull request should involve only one single new article. Contributors will be akcnowledge in the website page.
 
+## Authors
+
+Alessandro Carfì, University of Genoa, alessandro.carfi@dibris.unige.it
+Fulvio Mastrogiovanni, University of Genoa, fulvio.mastrogiovanni@dibris.unige.it
 
 
 This work is part of the PhD thesis of Alessandro Carfì (University of Genoa) and it is has been submitted for review to IEEE Transaction of Cybernetics.
