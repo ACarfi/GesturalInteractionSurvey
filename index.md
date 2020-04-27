@@ -56,7 +56,7 @@ It is possible to contribute to this survey by submitting a pull request where a
 
 ## Authors
 
-Alessandro Carfì, University of Genoa, alessandro.carfi@dibris.unige.it
+Alessandro Carfì, University of Genoa, alessandro.carfi@dibris.unige.it <br />
 Fulvio Mastrogiovanni, University of Genoa, fulvio.mastrogiovanni@dibris.unige.it
 
 
